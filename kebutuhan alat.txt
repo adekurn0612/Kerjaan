@@ -38,4 +38,15 @@ lcd : untuk monitoring manual
 		--keperluan tambahaan
 --mikrokontroller
 --step up-stepdown
+--adaptor 12v
+--module max3485 --jika tidak include di npk
+--buzzer
+*note***
+
+sumber air dari danau/sumber air sejenis
+/ada 2 bak penampungan di filter dengan filter
+	//air yang sudah di filter di monitor dengan ph dan tds,
+ada 2 jenis penyiraman : penyiraman dengan pupuk dan non pupuk
+penyiramaan dengan non-pupuk air yang ada di bak penampungan di
+
 
