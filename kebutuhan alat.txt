@@ -1,0 +1,41 @@
+		--Client--
+1.npk 
+	untuk sensor nutrisi
+2.soilmeasure
+	untuk sensor kelembapan/kekringan tanah
+3.sensor Ph tanah
+	utuk mengukur ph tanah
+--opsional
+// //sensor curah hujan fc-37
+	untuk mendeteksi hujan
+	- tidak begitu di perlukan untuk open fields
+//sensor ldr
+//untuk mendeteksi sinar matahari
+	-
+	-tidak begitu di perlukan untuk open fields
+//sensor suhu  lm35
+	-tidak begitu diperlukan untuk open fields
+4. lcd 
+untuk monitoring manual
+		--Controller--
+1.relay
+	+untuk pompa ke tanaman
+	+untuk pompa ke tong air
+2.water level
+ 	+untuk relay tempat air
+3.ultra sonic jsn
+	+water level digital
+3.sensor ph air
+	+untuk memonitoring apakah ph air cocok untuk melakukan penyirmaan
+4.tds sensor
+	+untuk monitor nutrisi air keruh atau tidaknya air
+lcd : untuk monitoring manual
+
+	---controller nutrisi--
+
+
+
+		--keperluan tambahaan
+--mikrokontroller
+--step up-stepdown
+
